@@ -45,7 +45,7 @@ The setup script will:
 ### Running the Demo
 
 ```bash
-python start_echoes.py --rite [type] --cycles [number] --threshold [value]
+python start_echoes.py --rite temporal --cycles 5
 ```
 
 Options:
