@@ -1,0 +1,2 @@
+These directories are where the UnseenForge component will save its generated outputs. The text artifacts are saved as JSON files with metadata, the audio companions as WAV files, and the visual elements as PNG images.
+You can create these directories manually or let the setup.py script create them for you when you run it. The unseen_forge.py file also includes a method (ensure_directories()) that creates these paths if they don't exist when the component initializes.
